@@ -1,5 +1,5 @@
 <script lang="ts">
-	import '../styles/global.css';
+	import './../styles/global.css';
 	let activeElem: string = 'about';
 	let items: { name: string; id: number }[] = [
 		{ name: 'about', id: 1 },
